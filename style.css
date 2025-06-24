@@ -1,0 +1,29 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  
+}
+
+
+h1 {
+  color: #373fff;
+}
+
+button {
+  font-size: 16pt;
+  background-color: rgb(183, 219, 254);
+  border-radius: 4px;
+  border: 2px solid navy;
+  box-shadow: 2px 2px gray;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(222, 239, 255);
+}
+
+#display {
+  font-size: 24pt;
+}
